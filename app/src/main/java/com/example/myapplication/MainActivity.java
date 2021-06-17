@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView textView = (TextView) findViewById(R.id.textview);
         textView.setTextColor(0xFFFF0000);
-
+        int a = 0;
     }
     public void click1(View view){
         //Intent intent =new Intent(getApplicationContext(),MainActivity2.class);
