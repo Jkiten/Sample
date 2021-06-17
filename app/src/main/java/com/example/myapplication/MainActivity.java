@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = (TextView) findViewById(R.id.textview);
         textView.setTextColor(0xFFFF0000);
         int a = 0;
+        int bbb=0;
     }
     public void click1(View view){
         //Intent intent =new Intent(getApplicationContext(),MainActivity2.class);
